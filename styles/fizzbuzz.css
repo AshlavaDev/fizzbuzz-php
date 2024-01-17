@@ -1,0 +1,16 @@
+/* This file is only for classes that are applied based on FizzBuzz results, separated for */
+
+.fizz {
+  background-color: green;
+  color: white;
+}
+
+.buzz {
+  background-color: blue;
+  color: white;
+}
+
+.fizzbuzz {
+  background-color: red;
+  color: white;
+}
